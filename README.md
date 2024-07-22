@@ -1,1 +1,1 @@
-# MeriSkill
+Worked in Projects like Sales Data Analysis, HR Analytics, Diabetes Prediction using tools such as Jupyter notebook, Python, Power BI and created interactive reports and dashboards to visualize key metrics and performance indicators for decision making processes.
